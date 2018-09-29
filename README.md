@@ -35,21 +35,26 @@ Install iTerm2 manually:
 https://www.iterm2.com/downloads.html
 
 
+##### Zsh and Oh My Zsh
 Next we want to install zsh and Oh My Zsh
 
 https://sourabhbajaj.com/mac-setup/iTerm/zsh.html
 
+##### powerlevel9k
 To install the powerlevel9k theme
 
 ```bash
 git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
 ```
 
+##### Python
+Make sure python and pip are installed by running the following
 ```bash
 brew install python
 sudo easy_install pip
 ```
 
+##### .zshrc
 Now that we have zsh and powerlevel9k installed we are ready to update our `.zshrc` file. Open your `.zshrc` file with the following command `code ~/.zshrc`
 
 Replace everything under line 5 with the following in your `.zshrc` file
