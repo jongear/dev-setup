@@ -7,6 +7,8 @@ This is a living corpus of my development environment setup
 
 ## Terminal
 
+**[Mac Terminal Settings](#Mac)** | **[Windows Terminal Settings](#Windows)**
+
 ### Mac
 
 #### Package Manager
