@@ -204,5 +204,25 @@ You can find additional themes [here](https://github.com/bhilburn/powerlevel9k/w
 
 ### Windows
 
+
 ![ConEmu](images/conemu.png)
 
+#### Package Manager
+
+![Chocolatey](images/chocolatey.svg)
+
+
+I use [Chocolatey](https://chocolatey.org/) exclusively for managing software installs on my Windows machines. 
+
+https://chocolatey.org/install
+
+
+#### ConEmu
+
+On Windows I use ConEmu as my terminal of choice. ConEmu has wide support
+
+- cmd
+- PowerShell
+- Git Bash
+
+ConEmu can be downloaded [here](https://conemu.github.io/)
