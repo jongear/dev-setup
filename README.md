@@ -204,12 +204,11 @@ You can find additional themes [here](https://github.com/bhilburn/powerlevel9k/w
 
 ### Windows
 
-
 ![ConEmu](images/conemu.png)
 
 #### Package Manager
 
-![Chocolatey](images/chocolatey.svg)
+<img src="images/chocolatey.svg" alt="Chocolatey Logo" width="200"/>
 
 
 I use [Chocolatey](https://chocolatey.org/) exclusively for managing software installs on my Windows machines. 
