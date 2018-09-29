@@ -5,6 +5,12 @@
 
 This is a living corpus of my development environment setup
 
+Quicklinks
+- [Terminal](#terminal)
+  - [Mac Terminal Settings](#mac)
+  - [Windows Terminal Settings](#windows)
+- [Editor](#editor)
+
 ## Terminal
 
 **[Mac Terminal Settings](#mac)** | **[Windows Terminal Settings](#windows)**
@@ -227,3 +233,9 @@ On Windows I use ConEmu as my terminal of choice. ConEmu has wide support
 - Git Bash
 
 ConEmu can be downloaded [here](https://conemu.github.io/)
+
+## Editor
+
+For development I use Visual Studio Code [VS Code]. You can download VC Code [here](https://code.visualstudio.com/download).
+
+### VS Code Extensions
