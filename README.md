@@ -209,6 +209,7 @@ export PATH=~/Library/Python/2.7/bin/:$PATH
 Next we need to add our powerline font as the default font for iTerm2. You can download the powerline font [here](assets/SourceCodePro+Powerline+Awesome+Regular.ttf)
 
 This can be done by going to `Iterm2` -> `Preferences` -> `Profiles` -> `Text`
+Once you reach the `Text` tab, you will need to update the font by clicking the `Change Font` button and selecting our new powerline font.
 
 ![iTerm2 Text](assets/images/iTerm2%20Font.png)
 
