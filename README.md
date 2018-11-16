@@ -19,7 +19,7 @@ Quicklinks
 
 #### Package Manager
 
-![Homebrew](images/homebrew.png)
+![Homebrew](assets/images/homebrew.png)
 
 I use [Homebrew](https://brew.sh/) exclusively for managing software installs to my Mac. To install Homebrew run the following command in Terminal 
 
@@ -31,7 +31,7 @@ I use [Homebrew](https://brew.sh/) exclusively for managing software installs to
 
 For Mac I use `iTerm2` with `powerlevel9k` installed.
 
-![iTerm2](images/iTerm2.png)
+![iTerm2](assets/images/iTerm2.png)
 
 Install iTerm2 with Homebrew:
 
@@ -206,13 +206,19 @@ source $ZSH/oh-my-zsh.sh
 export PATH=~/Library/Python/2.7/bin/:$PATH
 ```
 
+Next we need to add our powerline font as the default font for iTerm2. You can download the powerline font [here](assets/SourceCodePro+Powerline+Awesome+Regular.ttf)
+
+This can be done by going to `Iterm2` -> `Preferences` -> `Profiles` -> `Text`
+
+![iTerm2 Text](assets/images/iTerm2%20Font.png)
+
 Restart iTerm2 and your changes should be reflected
 
 You can find additional themes [here](https://github.com/bhilburn/powerlevel9k/wiki/Show-Off-Your-Config)
 
 ### Windows
 
-![ConEmu](images/conemu.png)
+![ConEmu](assets/images/conemu.png)
 
 #### Package Manager
 
