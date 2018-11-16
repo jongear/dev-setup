@@ -206,12 +206,19 @@ source $ZSH/oh-my-zsh.sh
 export PATH=~/Library/Python/2.7/bin/:$PATH
 ```
 
-Next we need to add our powerline font as the default font for iTerm2. You can download the powerline font [here](assets/SourceCodePro+Powerline+Awesome+Regular.ttf)
+Next we need to add our powerline font as the default font for iTerm2. Make sure you download the [SourceCodePro Powerline Awesome Regular.ttf Font](assets/SourceCodePro+Powerline+Awesome+Regular.ttf)
 
 This can be done by going to `Iterm2` -> `Preferences` -> `Profiles` -> `Text`
 Once you reach the `Text` tab, you will need to update the font by clicking the `Change Font` button and selecting our new powerline font.
 
 ![iTerm2 Text](assets/images/iTerm2%20Font.png)
+
+Next we want to update the color profile to use a custom color profile. You can download the profile known as [Solarized High Contrast Dark.itemcolors](assets/Solarized%20High%20Contrast%20Dark.itemcolors)
+
+This color profile will need to be applied in the `Color` tab. This can be found by navigating to `Iterm2` -> `Preferences` -> `Profiles` -> `Color`
+
+
+![iTerm2 Colors](assets/images/iTerm2%Colors.png)
 
 Restart iTerm2 and your changes should be reflected
 
