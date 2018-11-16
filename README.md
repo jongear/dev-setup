@@ -218,7 +218,7 @@ Next we want to update the color profile to use a custom color profile. You can 
 This color profile will need to be applied in the `Color` tab. This can be found by navigating to `Iterm2` -> `Preferences` -> `Profiles` -> `Color`
 
 
-![iTerm2 Colors](assets/images/iTerm2%Colors.png)
+![iTerm2 Colors](assets/images/iTerm2%20Colors.png)
 
 Restart iTerm2 and your changes should be reflected
 
