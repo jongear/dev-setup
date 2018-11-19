@@ -230,7 +230,7 @@ You can find additional themes [here](https://github.com/bhilburn/powerlevel9k/w
 
 #### Package Manager
 
-<img src="images/chocolatey.svg" alt="Chocolatey Logo" width="200"/>
+<img src="assets/images/chocolatey.svg" alt="Chocolatey Logo" width="200"/>
 
 
 I use [Chocolatey](https://chocolatey.org/) exclusively for managing software installs on my Windows machines. 
