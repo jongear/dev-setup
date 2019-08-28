@@ -213,8 +213,7 @@ Once you reach the `Text` tab, you will need to update the font by clicking the 
 
 ![iTerm2 Text](assets/images/iTerm2%20Font.png)
 
-Next we want to update the color profile to use a custom color profile. You can download the profile known as [Solarized High Contrast Dark.itemcolors](assets/Solarized%20High%20Contrast%20Dark.itemcolors)
-
+Next we want to update the color profile to use a custom color profile. You can download the profile known as [Solarized High Contrast Dark.itemcolors](assets/Solarized%20High%20Contrast%20Dark.itermcolors)
 This color profile will need to be applied in the `Color` tab. This can be found by navigating to `Iterm2` -> `Preferences` -> `Profiles` -> `Color`
 
 
